@@ -1,10 +1,10 @@
 ---
 title: "Health, income, and healthcare coverage in the US"
-output: 
-  html_document: 
-    fig_height: 4
-    highlight: pygments
-    theme: spacelab
+author: Ian Finneran
+date: September 1, 2019
+output:
+  github_document:
+    pandoc_args: --webtex
 ---
 
 
@@ -191,4 +191,4 @@ df_6 %>%
 There is a clear decrease in health care coverage for low income households. High income households have less than a 5% chance of not having health care coverage, while that climbs to above 30% for some low income brackets. There is also a trend of rural households having a greater chance of not having health care coverage than their urban and suburban counterparts.
 
 
-Overall this analysis shows that low income houses in the US tend to have higher rates of physical health problems, including heart disease, and they also tend to have the lowest rates of healthcare coverage. Thus, we are still in need of health care coverage that is affordable for everyone.  It would be interesting to repeat this analysis with data from the most recent year (2017).
+Overall this analysis shows that low income houses in the US tend to have higher rates of physical health problems, including heart disease, and they also tend to have the lowest rates of healthcare coverage. Thus, we are still in need of health care coverage that is affordable for everyone.
