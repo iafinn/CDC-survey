@@ -7,11 +7,11 @@ Here are two preliminary plots from the dataset. In the first plot, I examine ra
 
   
 
-![alt text](https://github.com/iafinn/data_science/blob/master/CDC_survey/Plot_1.png)
+![alt text](https://github.com/iafinn/CDC-survey/blob/master/EDA/Jupyter_python/Plot_1.png)
 
   
 
-![alt text](https://github.com/iafinn/data_science/blob/master/CDC_survey/Plot_2.png)
+![alt text](https://github.com/iafinn/CDC-survey/blob/master/EDA/Jupyter_python/Plot_2.png)
 
 # Files
 
